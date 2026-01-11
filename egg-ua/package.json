@@ -1,0 +1,15 @@
+{
+    "name": "egg-ua",
+    "version": "1.0.0",
+    "eggPlugin": {
+        "name": "ua"
+    },
+    "dependencies": {},
+    "devDependencies": {
+        "egg": "^3.0.0",
+        "egg-bin": "^5.0.0"
+    },
+    "scripts": {
+        "test": "egg-bin test"
+    }
+}
